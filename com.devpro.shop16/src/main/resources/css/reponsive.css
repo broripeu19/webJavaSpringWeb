@@ -1,0 +1,367 @@
+
+  
+  @media (min-width: 0px) and (max-width: 576px){
+    .container{
+        width: 460px;
+        margin-left: 30px;
+    }
+    .header-row{
+        display: none;
+    }
+    .shopee-nav-search{
+        display: none;
+    }
+    .shopee-header-content-search{
+        display: none;
+    }
+    .shopee-header-content-cart{
+        display: none;
+    }
+    /* .header{
+        position: inherit;
+    } */
+    .shopee-header-logo{
+        height: 100px;
+    }
+    .shopee-header-logo>a{
+        width: 270px;
+        margin-left: -54px;
+    }
+    .shopee-header-logo>a>p{
+        font-size: 36px;    
+    }
+    .banner-sale{
+        display: none;
+    }
+    /*  */
+    .header-button-phone{
+        display: block;
+        margin-left: 288px;
+        margin-top: 18px;
+    }
+    .header-button-phone>a>svg{
+        width: 50px;
+        height: 50px;
+        color: #fff;
+    }
+    .banner-sale>div:last-child{
+        display: none;
+    }
+    .start-hot-sale-picture>img{
+        width: 436px;
+    }
+    .main-content-banner{
+        padding-top:118px;
+    }
+    .content-banner{
+        height: 0px;
+    }
+    .home-banners-wrapper{
+        height: 336px;
+    }
+    .hot-sale-product{
+        height: 450px;
+    }
+    .hot-sale-product-main>div{
+        margin-left: -5px;
+        border-right: none;
+    }
+    .hot-sale-product-title{
+        margin-left: 6px;
+        margin-right: 6px;
+    }
+    .title-sale-product{
+        font-size: 16px;
+    }
+    .product-contain-section>div:last-child{
+        margin-left: 60px;
+    }
+    .section-shopee-badge-sub {
+        margin-left: 150px;
+    }
+    .modal-backdrop{
+        width: 100%;
+        height: 100%;
+    }
+    .center-footer{
+        width: 380px;
+    }
+    
+
+  }
+ /* Small devices (landscape phones, 576px and up) */
+
+ @media (min-width: 576px) and (max-width: 767px) { 
+    .header-row{
+        display: none;
+    }
+    .shopee-nav-search{
+        display: none;
+    }
+    .banner-sale{
+        margin-right: -13px;
+    }
+    .banner-sale>div:last-child{
+        display: none;
+    }
+    .banner-sale>div:first-child{
+        width: 100%;
+    }
+    .start-hot-sale-picture>img{
+        width: 100%;
+        margin-left: -9px;
+    }
+    .start-hot-sale-picture{
+        margin-left: 18px;
+    }
+    .shopee-badge-sub{
+        margin-left: 71px;
+        font-size: 14px;
+        width: 55px;
+    }
+    .home-banners-wrapper{
+        height: 300px;
+    }
+    .main-content-banner{
+        padding-top: 110px;
+    }
+    .home-banners-wrapper>div>img{
+        width: 68px;
+    }
+    .hot-sale-product-title{
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+    .hot-sale-product>div>span{
+        font-size: 14px;
+        margin-left: 14px;
+    }
+    .hot-sale{
+        display: none;
+    }
+    .section-shopee-badge-sub{
+        margin-left: 190px;
+    }
+    .product-contain-section>div:last-child{
+        margin-left: 100px;
+    }
+    .shopee-header-logo>a{
+        width: 150px;
+
+    }
+    .shopee-header-logo>a>p{
+        font-size: 28px;
+    }
+    .shopee-header-content-search{
+        display: none;
+    }
+    .shopee-header-content-cart{
+        display: none;
+    }
+    .header-button-phone{
+        display: block;
+        margin-left: 379px;
+        margin-top: 18px;
+    }
+    .header-button-phone>a>svg{
+        width: 50px;
+        height: 40px;
+        color: #fff;
+    }
+ }
+
+
+ 
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) { 
+    .main-content-banner{
+        padding-top: 130px;
+    }
+    .banner{
+        padding-top: 0px;
+    }
+    .header-row{
+        display: none;
+    }
+    .shopee-nav-search{
+        display: none;
+    }
+    .banner-sale{
+        margin-right: -13px;
+    }
+    .banner-sale>div:last-child{
+        display: none;
+    }
+    .banner-sale>div:first-child{
+        width: 100%;
+    }
+    .start-hot-sale-picture>img{
+        width: 100%;
+        margin-left: -9px;
+    }
+    .start-hot-sale-picture{
+        margin-left: 18px;
+    }
+    .shopee-badge-sub{
+        margin-left: 71px;
+        font-size: 14px;
+        width: 55px;
+    }
+    .hot-sale-picture{
+        margin-top: 125px;
+    }
+    .hot-sale-product-main{
+        margin-left: 22px;
+    }
+    .hot-sale-product-main>div{
+        margin-left: -3px;
+    }
+    .hot-sale-product-img{
+        margin-top: 10px;
+    }
+    .hot-sale-product-img>img{
+        width: 88px;
+    }
+    .shopee-badge-sub{
+        margin-left: 62px;
+        font-size: 11px;
+        width: 36px;
+    }
+    .home-banners-wrapper>div>img{
+        width: 62px;
+    }
+    .home-banners-wrapper>div>p{
+        font-size: 10px;
+    }
+    .home-banners-wrapper{
+        height: 140px;
+    }
+
+    .home-category-list__category-grid-sub-title>img , .home-category-list__category-grid-title{
+        height: 105px;
+    }
+    .home-category-list__category-grid-sub-text{
+        font-size: 14px;
+    }
+    .shopee-header-section__header__title{
+        font-size: 20px;
+    }
+    .shopee-header-section__header{
+        padding: 15px 1.25rem;
+    }
+    .section-shopee-badge-sub{
+        margin-left: 280px;
+    }
+    .product-contain-section>div:last-child{
+        margin-left: 186px;
+    }
+    .hot-sale-product-price{
+        font-size: 14px;
+    }
+    .shopee-header-content-search{
+        display: none;
+    }
+    .shopee-header-logo{
+        width: 160px;
+    }
+    .shopee-header-content-cart{
+        display: none;
+    }
+    .header-button-phone{
+        display: block;
+        margin-left: 480px;
+        margin-top: 24px;
+    }
+    .header-button-phone>a>svg{
+        width: 50px;
+        height: 36px;
+        color: #fff;
+    }
+    
+ }
+
+
+ 
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px) { 
+    .header-row{
+        display: none;
+    }
+    .shopee-nav-search{
+        display: none;
+    }
+    
+    .banner-sale{
+        margin-right: -13px;
+    }
+    .banner-sale>div:last-child{
+        display: none;
+    }
+    .banner-sale>div:first-child{
+        width: 100%;
+    }
+    .start-hot-sale-picture>img{
+        width: 100%;
+        margin-left: -6px;
+    }
+    .start-hot-sale-picture{
+        margin-left: 12px;
+    }
+    .shopee-badge-sub{
+        margin-left: 71px;
+        font-size: 14px;
+        width: 55px;
+    }
+    .hot-sale-product-img>img{
+        width: 126px;
+    }
+    .hot-sale-picture{
+        margin-top: 168px;
+    }
+    .section-shopee-badge-sub{
+        margin-left: 160px;
+    }
+    .product-contain-section>div:last-child{
+        margin-left: 70px;
+    }
+    .hot-sale-product-main>div{
+        margin-left: -5px;
+    }
+}
+
+
+ 
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .start-hot-sale-picture>img{
+        width: 1113px;
+    }
+    .hot-sale-product {
+        margin-left: -3px;
+    }
+    .hot-sale-product-main{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+ }
+
+
+
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px){
+    .banner-sub-img>img{
+        height: 128px;
+    }
+    .start-hot-sale-picture>img{
+        width: 100% !important;
+    }
+    .section-shopee-badge-sub{
+        margin-left: 140px;
+    }
+    .product-contain-section>div:last-child{
+        margin-left: 56px;
+    }
+}

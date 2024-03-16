@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-nav{
+    
+    height: 88px;
+}
+.header-nav-sub{
+    display: flex;
+    
+}
+.header-nav-sub>div{
+    margin-top: 18px;
+    font-family: math;
+    margin-left: 100px;
+    font-size: 40px;
+    color: #0d6efd;
+    text-shadow: 1px 2px 2px;
+}
+._3pclFS{
+    margin-left: auto;
+    margin-top: 36px;
+    margin-right: 100px;
+    color: #084298;
+    text-decoration: none;
+}
+.content-center{
+    text-align: center;
+    background-color: #0d6efd;
+    height: 800px;
+}
+.background{
+    background-color: #0a68ff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 600px;
+    width: 1000px;
+    margin: auto;
+}
+.background>div>form{
+    margin-left: 650px;
+    padding-top: 80px;
+}
+.login-form{
+    background: #fff;
+    width: 400px;
+    border-radius: 5px;
+}
+.title-login{
+    padding: 30px 28px;
+    font-size: 24px;
+    font-family: system-ui;
+}
+.title-login>div{
+    text-align: left;
+    color: #222;
+}
+.login-account{
+    width: 100%;
+    margin-bottom: 28px;
+}
+.login-account>input , .login-password>input , .login-check-password>input{
+    width: 85%;
+    line-height: 0px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    padding: 10px 8px;
+    margin: auto;
+}
+.login-password{
+    width: 100%;
+    margin-bottom: 28px;
+}
+.login-password>span{
+    margin-left: -127px;
+}
+.login-check-password{
+    width: 100%;
+    margin-bottom: 28px;
+}
+.login-check-password>span{
+    margin-left: -180px;
+}
+.login-form>button{
+    border-radius: 2px;
+    width: 85%;
+    line-height: 35px;
+    background-color: rgb(238, 77, 45);
+    border: rgb(238, 77, 45);
+    font-size: 14px;
+    color: #fff;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+.login-form>button:hover{
+    cursor: pointer;
+}
+.login-form>button>a{
+    color: #fff;
+    text-decoration: none;
+}
+.login-action{
+    display: flex;
+    padding: 0px 33px;
+    font-size: 13px;
+}
+.login-SMS{
+    margin-left: auto;
+}
+.login-forgot>a , .login-SMS>a{
+    text-decoration: none;
+    color: blue;
+    font-family: sans-serif;
+}
+.login-contact{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.login-or{
+    display: flex;
+    width: 85%;
+    margin: auto;
+    padding-bottom: .875rem;
+}
+.login-or-1 , .login-or-2{
+    height: 1px;
+    width: 100%;
+    background-color: #dbdbdb;
+    margin-top: 5px;
+}
+.login-or-text{
+    color: #ccc;
+    padding: 0 1rem;
+    text-transform: uppercase;
+    font-size: .75rem;
+}
+.login-connect{
+    display: flex;
+    width: 85%;
+    margin: auto;
+}
+.connect-fb  {
+    margin-right: 50px;
+    display: flex;
+    background: #1877f2;
+    width: 118px;
+    height: 36px;
+    border-radius: 2px;
+}
+.connect-fb>div  {
+    margin-top: 3px;
+    width: 40px;
+    color: #fff;
+}
+.connect-fb>span{
+    margin-top: 5px;
+    color: #fff;
+}
+.connect-gg{
+    display: flex;
+    background: #f442de;
+    width: 118px;
+    height: 36px;
+    border-radius: 2px;
+    margin-left: auto;
+}
+.connect-gg>div{
+    width: 40px;
+    color: #fff;
+    margin-top: 4px;
+}
+.connect-gg>span{
+    color: #fff;
+    margin-top: 5px;
+}
+.register{
+    padding-bottom: 30px;
+}
+.register-ask{
+    font-size: 14px;
+    color: rgba(0,0,0,.26);
+}
+.register-ask>a{
+    color: #ee4d2d;
+    text-decoration: none;
+}
